@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toast_width">260dp</dimen>
+    <dimen name="ic_size">33dp</dimen>
+</resources>

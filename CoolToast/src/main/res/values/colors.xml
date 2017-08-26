@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="success">#28a745</color>
+    <color name="success_border">#24943e</color>
+    <color name="danger">#dc3545</color>
+    <color name="danger_border">#c6303e</color>
+    <color name="warning">#ffc107</color>
+    <color name="warning_border">#e7af06</color>
+    <color name="info">#17a2b8</color>
+    <color name="info_border">#1592a6</color>
+    <color name="primary">#007bff</color>
+    <color name="primary_border">#016ee2</color>
+    <color name="light">#f8f9fa</color>
+    <color name="light_border">#919191</color>
+    <color name="dark">#343a40</color>
+    <color name="dark_border">#212428</color>
+</resources>
