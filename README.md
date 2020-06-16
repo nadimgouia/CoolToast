@@ -12,7 +12,7 @@ dependencies {
 </pre>
 
 # ScreenShot
-<img src="https://gifyu.com/images/screenshots.gif" width="350"/>
+<img src="https://miro.medium.com/max/1280/1*0JHd38ud4rWBn_NVknvNew.gif" width="350"/>
 
 # Sample Example
 <a href="https://github.com/nadimgouia/CoolToast/tree/master/app">Sample Module</a>
